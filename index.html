@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crypto Converter</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 CryptoCurrency Converter</h1>
+    <input type="number" id="amount" placeholder="Enter amount" />
+
+    <div class="selectors">
+      <select id="fromCrypto"></select>
+      <select id="toCrypto"></select>
+    </div>
+
+    <button id="convertBtn">Convert</button>
+    <div id="result"></div>
+
+    <canvas id="priceChart" width="300" height="200"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
