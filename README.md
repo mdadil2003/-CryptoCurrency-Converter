@@ -1,9 +1,9 @@
 # CryptoCurrency-Converter
 
 ## Preview
-![CryptoCurrency Converter Preview](img1.png)
-![CryptoCurrency Converter Preview](img2.png)
-![CryptoCurrency Converter Preview](img3.png)
+![CryptoCurrency Converter Preview](img.png1)
+![CryptoCurrency Converter Preview](img.png2)
+![CryptoCurrency Converter Preview](img.png3)
 
 
 Project Title: CryptoCurrency Converter using HTML, CSS, JavaScript, and CoinGecko API
